@@ -9,8 +9,8 @@ function App(){
   return (
     <div>
       <Header/>
-      <Player whichPlayer = "x" /> 
-      <Player whichPlayer = "o" /> 
+      <Player whichPlayer = "X" /> 
+      <Player whichPlayer = "O" /> 
       <Board/> 
     </div>
   
