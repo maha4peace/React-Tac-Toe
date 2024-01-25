@@ -1,7 +1,17 @@
+import Square from "./Square";
+
 function Board(props) {
     return (
-        <div>
-            <h1> the board! </h1> 
+        <div className="board">
+            <Square/>
+            <Square/>
+            <Square/>
+            <Square/>
+            <Square/>
+            <Square/>
+            <Square/>
+            <Square/>
+            <Square/>
         </div>
     )
 }

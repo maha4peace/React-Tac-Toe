@@ -12,15 +12,6 @@ function App(){
       <Player whichPlayer = "x" /> 
       <Player whichPlayer = "o" /> 
       <Board/> 
-      <Square/> 
-      <Square/> 
-      <Square/> 
-      <Square/> 
-      <Square/> 
-      <Square/> 
-      <Square/> 
-      <Square/> 
-      <Square/> 
     </div>
   
   );
